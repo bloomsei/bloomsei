@@ -24,7 +24,6 @@ passion = ["DevOps", "Developer Experience", "Security"]
 - ♟️ I love playing **chess**
 - 📚 I read a lot, mostly **Sci-Fi** and **Fantasy**
 - 🩰 I do lots of sports, I love dancing the most
-- 👩🏼‍💻 I'm open to new career opportunities
 
 ## Let's connect! 🌟
 
